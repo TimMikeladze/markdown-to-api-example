@@ -113,6 +113,21 @@ const Page = (props: PageProps) => {
   return (
     <div className="content">
       <div>
+        <div className="links">
+          <div>
+            <Link href="https://github.com/TimMikeladze/markdown-to-api">
+              Github repo
+            </Link>
+          </div>
+          <div>
+            <Link href="https://github.com/TimMikeladze/markdown-to-api-example">
+              Example code
+            </Link>
+          </div>
+          <div>
+            <Link href="/api/graphql">GraphQL Playground</Link>
+          </div>
+        </div>
         <input
           name="search"
           autoFocus
