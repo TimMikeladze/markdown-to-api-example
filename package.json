@@ -24,7 +24,7 @@
     "graphql": "16.6.0",
     "graphql-modules": "2.1.0",
     "graphql-request": "4.3.0",
-    "luxon": "3.0.1",
+    "luxon": "3.2.1",
     "markdown-to-api": "1.0.0",
     "micro": "9.4.1",
     "next": "12.2.4",
